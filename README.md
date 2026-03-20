@@ -9,7 +9,6 @@ The core challenge lies in providing a seamless, automated, and fair mechanism t
 
 ### **Rakshak AI** is a smart income protection system that detects real-world disruptions and automatically compensates food delivery workers for the income they lose—ensuring financial security without any manual claims.
 
----
 
 Rakshak AI is like a smart helper for food delivery workers that protects their daily earnings. It first understands how much a worker usually earns in a week and then estimates how much they are likely to earn each day. At the same time, it keeps an eye on things like heavy rain, floods, pollution, or sudden restrictions that can stop deliveries from happening.
 
