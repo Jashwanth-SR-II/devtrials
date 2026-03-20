@@ -190,18 +190,17 @@ This allows partial coverage while maintaining system stability.
 
 Payouts are activated only when predefined external conditions are met:
 
-$$
-T = \begin{cases} 1 & \text{if } (R > R_{th}) \lor (AQI > AQI_{th}) \ 0 & \text{otherwise} \end{cases}
+
+T = $$\begin{cases} 1 & \text{if } (R > R_{th}) \lor (AQI > AQI_{th}) \ 0 & \text{otherwise} \end{cases}$$
 
 Where:
 
-* ( T ): Trigger indicator
-* ( R ): Rainfall level
-* ( AQI ): Air Quality Index
-* ( R_{th}, AQI_{th} ): Threshold values
+* $$( T )$$: Trigger indicator
+* $$( R )$$: Rainfall level
+* $$( AQI )$$: Air Quality Index
+* $$( R_{th}, AQI_{th} )$$: Threshold values
 
 This ensures payouts are strictly linked to real-world disruptions.
-$$
 
 ---
 
@@ -209,9 +208,9 @@ $$
 
 The final payout is determined by combining all components:
 
-$$
-\text{Payout} = T \times C \times \max(0, E_d - A_d)
-$$
+
+$$\text{Payout} = T \times C \times \max(0, E_d - A_d)$$
+
 ---
 
 ### 6. Additional Constraints (Optional Enhancements)
