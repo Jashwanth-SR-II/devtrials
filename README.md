@@ -221,58 +221,24 @@ $$\text{Payout} = T \times C \times \max(0, E_d - A_d)$$
 
 ---
 
-## Premium Features & Plan Enhancements
+## Suggestions for Future Enhancements
 
-Rakshak AI follows a flexible model where users can access basic protection for free, while advanced features and higher coverage are available through a premium plan.
+The current solution provides basic income protection for delivery workers. However, it can be further improved by adding the following features:
 
----
+* **Premium Plans**
+  Introduce optional plans with higher coverage and better payout limits.
 
-### 1. Free Plan (Basic Protection)
+* **Custom Coverage Options**
+  Allow users to choose their coverage level based on their needs.
 
-* Provides limited income protection with a lower coverage factor.
-* Basic disruption triggers (e.g., heavy rain only).
-* Standard payout limits per day.
-* Suitable for users who want essential protection at no cost.
+* **Additional Trigger Conditions**
+  Include more factors such as traffic issues, app downtime, or demand drops.
 
----
+* **Improved AI Models**
+  Enhance prediction accuracy using advanced machine learning techniques.
 
-### 2. Premium Plan (Enhanced Protection)
+* **Faster Payout Processing**
+  Reduce payout time to provide quicker financial support.
 
-* Higher coverage factor, resulting in better compensation.
-* Access to multiple triggers such as pollution, floods, and local restrictions.
-* Increased daily payout limits.
-* Faster payout processing and priority handling.
-* More accurate AI predictions using advanced models.
-
----
-
-### 3. Feature-Based Upgrades
-
-Users can unlock additional benefits through premium tiers:
-
-* **Higher Coverage Percentage**
-  Increase payout from standard (e.g., 70%) to higher levels (e.g., 90%).
-
-* **Expanded Trigger Coverage**
-  Includes more disruption types for better protection.
-
-* **Custom Coverage Limits**
-  Allows users to choose higher payout caps based on their needs.
-
-* **Priority Claims Processing**
-  Ensures faster settlement during high-demand situations.
-
----
-
-### 4. Limits and Controls
-
-To maintain fairness and system stability:
-
-* Daily payout caps are enforced to prevent excessive claims.
-* Minimum loss thresholds ensure only significant disruptions trigger payouts.
-* Fraud detection mechanisms validate claims before approval.
-* Weekly subscription pricing aligns with the worker’s earning cycle.
-
-
-
-
+* **User Insights Dashboard**
+  Show earnings trends and risk insights to help users make better decisions.
