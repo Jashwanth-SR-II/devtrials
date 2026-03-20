@@ -141,15 +141,15 @@ In short, Rakshak AI acts like a safety net for delivery workers—so even if un
 
 The system estimates the worker’s expected daily income based on weekly earnings and demand patterns:
 
-$$
-E_d = \frac{W}{7} \times f_d
+
+$$E_d = \frac{W}{7} \times f_d$$
 
 Where:
 
-* ( E_d ): Expected daily income
-* ( W ): Weekly income
-* ( f_d ): Demand adjustment factor for a given day (captures variations such as weekends or peak demand periods)
-$$
+* $$( E_d )$$: Expected daily income
+* $$( W )$$: Weekly income
+* $$( f_d )$$: Demand adjustment factor for a given day (captures variations such as weekends or peak demand periods)
+
 
 ---
 
@@ -157,30 +157,30 @@ $$
 
 The income loss is computed by comparing expected income with actual earnings:
 
-$$
-L = \max(0, E_d - A_d)
+
+$$L = \max(0, E_d - A_d)$$
 
 Where:
 
-* ( L ): Income loss
-* ( A_d ): Actual income earned on that day
+* $$( L )$$: Income loss
+* $$( A_d )$$: Actual income earned on that day
 
 This ensures that only positive losses are considered, eliminating negative payouts.
-$$
+
 ---
 
 ### 3. Coverage Factor
 
 To ensure sustainability and reduce misuse, a coverage factor is applied:
 
-$$
-P = L \times C
+
+$$P = L \times C$$
 
 Where:
 
-* ( P ): Final payout amount
-* ( C ): Coverage factor (typically between 0.7 and 0.9)
-$$
+* $$( P )$$: Final payout amount
+* $$( C )$$: Coverage factor (typically between 0.7 and 0.9)
+
 
 This allows partial coverage while maintaining system stability.
 
@@ -191,7 +191,7 @@ This allows partial coverage while maintaining system stability.
 Payouts are activated only when predefined external conditions are met:
 
 
-T = $$\begin{cases} 1 & \text{if } (R > R_{th}) \lor (AQI > AQI_{th}) \ 0 & \text{otherwise} \end{cases}$$
+$$T = \begin{cases} 1 & \text{if } (R > R_{th}) \lor (AQI > AQI_{th}) \ 0 & \text{otherwise} \end{cases}$$
 
 Where:
 
