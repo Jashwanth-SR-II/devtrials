@@ -7,7 +7,7 @@ The core challenge lies in providing a seamless, automated, and fair mechanism t
 ## Rakshak AI
 ### **Protecting every delivery, every day.**
 
-**Rakshak AI** is a smart income protection system that detects real-world disruptions and automatically compensates food delivery workers for the income they lose—ensuring financial security without any manual claims.
+### **Rakshak AI** is a smart income protection system that detects real-world disruptions and automatically compensates food delivery workers for the income they lose—ensuring financial security without any manual claims.
 
 ---
 
@@ -22,28 +22,28 @@ In short, Rakshak AI acts like a safety net for delivery workers—so even if un
 ## How Rakshak AI Works
 
 * **Worker Registration**
-    The delivery worker signs up and connects their app or provides weekly income details.
+    - The delivery worker signs up and connects their app or provides weekly income details.
 
 * **Earnings Understanding**
-    Rakshak AI analyzes the weekly income and estimates expected daily earnings.
+    - Rakshak AI analyzes the weekly income and estimates expected daily earnings.
 
 * **Continuous Monitoring**
-    The system keeps checking external conditions like rain, floods, pollution, or restrictions.
+    - The system keeps checking external conditions like rain, floods, pollution, or restrictions.
 
 * **Disruption Detection**
-    If any issue occurs that affects deliveries, the system detects it instantly.
+    - If any issue occurs that affects deliveries, the system detects it instantly.
 
 * **Income Loss Calculation**
-    Rakshak AI compares expected income with actual earnings to find the loss.
+    - Rakshak AI compares expected income with actual earnings to find the loss.
 
 * **Automatic Claim Creation**
-    The system automatically generates a claim—no manual action needed from the worker.
+    - The system automatically generates a claim—no manual action needed from the worker.
 
 * **Instant Payout**
-    The calculated compensation is sent directly to the worker.
+    - The calculated compensation is sent directly to the worker.
 
 * **Continuous Protection**
-    The worker stays financially protected even during unexpected disruptions.
+    - The worker stays financially protected even during unexpected disruptions.
 
 ---
 
@@ -55,7 +55,6 @@ In short, Rakshak AI acts like a safety net for delivery workers—so even if un
 * Estimates expected daily income based on patterns.
 * Helps in understanding how much income may be lost during disruptions.
 
----
 
 ### 2. Real-Time Disruption Monitoring
 
@@ -63,7 +62,6 @@ In short, Rakshak AI acts like a safety net for delivery workers—so even if un
 * Uses APIs or simulated data to track these events.
 * Ensures timely detection of situations affecting work.
 
----
 
 ### 3. Automatic Trigger Detection
 
@@ -71,15 +69,12 @@ In short, Rakshak AI acts like a safety net for delivery workers—so even if un
 * Links the event directly to the worker’s ability to work.
 * Initiates the next steps without manual input.
 
----
-
 ### 4. Income Loss Calculation
 
 * Compares expected income with actual earnings.
 * Calculates the exact loss for that period.
 * Ensures fair and accurate compensation.
 
----
 
 ### 5. Zero-Touch Claims Process
 
@@ -87,7 +82,6 @@ In short, Rakshak AI acts like a safety net for delivery workers—so even if un
 * Removes the need for manual application.
 * Makes the process simple and fast for workers.
 
----
 
 ### 6. Instant Payout System
 
@@ -95,7 +89,6 @@ In short, Rakshak AI acts like a safety net for delivery workers—so even if un
 * Uses integrated or simulated payment systems.
 * Reduces waiting time and financial stress.
 
----
 
 ### 7. Fraud Detection and Validation
 
@@ -103,7 +96,6 @@ In short, Rakshak AI acts like a safety net for delivery workers—so even if un
 * Prevents duplicate or false claims.
 * Ensures the system is fair and reliable.
 
----
 
 ### 8. Weekly Coverage Model
 
@@ -111,21 +103,11 @@ In short, Rakshak AI acts like a safety net for delivery workers—so even if un
 * Calculates premiums on a weekly basis.
 * Keeps the system affordable and easy to use.
 
----
-
 ### 9. Simple Dashboard
 
 * Displays earnings, losses, and coverage details.
 * Helps workers track their financial protection.
 * Provides clear and easy-to-understand insights.
-
----
-
-Here’s a clean **Tech Stack section** you can add to your README:
-
----
-
-Got it—here’s a **simpler, cleaner version** split into just **Frontend and Backend**:
 
 ---
 
@@ -154,9 +136,9 @@ Got it—here’s a **simpler, cleaner version** split into just **Frontend and 
 
 ---
 
-#  Payout Model & Insurance Mathematics
+##  Payout Model & Insurance Mathematics
 
-## 1. Expected Daily Income Estimation
+### 1. Expected Daily Income Estimation
 
 The system estimates the worker’s expected daily income based on weekly earnings and demand patterns:
 
@@ -170,7 +152,7 @@ Where:
 
 ---
 
-## 2. Income Loss Calculation
+### 2. Income Loss Calculation
 
 The income loss is computed by comparing expected income with actual earnings:
 
@@ -185,7 +167,7 @@ This ensures that only positive losses are considered, eliminating negative payo
 
 ---
 
-## 3. Coverage Factor
+### 3. Coverage Factor
 
 To ensure sustainability and reduce misuse, a coverage factor is applied:
 
@@ -200,7 +182,7 @@ This allows partial coverage while maintaining system stability.
 
 ---
 
-## 4. Parametric Trigger Condition
+### 4. Parametric Trigger Condition
 
 Payouts are activated only when predefined external conditions are met:
 
@@ -217,7 +199,7 @@ This ensures payouts are strictly linked to real-world disruptions.
 
 ---
 
-## 5. Final Payout Formula
+### 5. Final Payout Formula
 
 The final payout is determined by combining all components:
 
@@ -225,15 +207,11 @@ The final payout is determined by combining all components:
 
 ---
 
-## 6. Additional Constraints (Optional Enhancements)
+### 6. Additional Constraints (Optional Enhancements)
 
 * **Maximum Payout Cap:** Limits excessive payouts per day
 * **Minimum Loss Threshold:** Ensures claims are triggered only beyond a certain loss percentage
 * **Dynamic Factors:** AI can adjust ( f_d ) and ( C ) based on historical patterns and risk levels
-
----
-Great idea—this adds a **business model angle**, which judges love 🔥
-Here’s a clean and professional section you can include:
 
 ---
 
@@ -289,7 +267,6 @@ To maintain fairness and system stability:
 * Fraud detection mechanisms validate claims before approval.
 * Weekly subscription pricing aligns with the worker’s earning cycle.
 
----
 
 
 
