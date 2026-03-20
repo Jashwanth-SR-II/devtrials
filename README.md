@@ -225,20 +225,14 @@ $$\text{Payout} = T \times C \times \max(0, E_d - A_d)$$
 
 The current solution provides basic income protection for delivery workers. However, it can be further improved by adding the following features:
 
-* **Premium Plans**
-  Introduce optional plans with higher coverage and better payout limits.
+* **Premium Plans:** Introduce optional plans with higher coverage and better payout limits.
 
-* **Custom Coverage Options**
-  Allow users to choose their coverage level based on their needs.
+* **Custom Coverage Options:** Allow users to choose their coverage level based on their needs.
 
-* **Additional Trigger Conditions**
-  Include more factors such as traffic issues, app downtime, or demand drops.
+* **Additional Trigger Conditions:** Include more factors such as traffic issues, app downtime, or demand drops.
 
-* **Improved AI Models**
-  Enhance prediction accuracy using advanced machine learning techniques.
+* **Improved AI Models:** Enhance prediction accuracy using advanced machine learning techniques.
 
-* **Faster Payout Processing**
-  Reduce payout time to provide quicker financial support.
+* **Faster Payout Processing:** Reduce payout time to provide quicker financial support.
 
-* **User Insights Dashboard**
-  Show earnings trends and risk insights to help users make better decisions.
+* **User Insights Dashboard:** Show earnings trends and risk insights to help users make better decisions.
